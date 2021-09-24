@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Sep 23 17:00:41 2021
+# Process ID: 17964
+# Current directory: C:/Users/nanya/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log lab1_sw_led_24.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab1_sw_led_24.tcl
+# Log file: C:/Users/nanya/project_1/project_1.runs/synth_1/lab1_sw_led_24.vds
+# Journal file: C:/Users/nanya/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab1_sw_led_24.tcl -notrace
